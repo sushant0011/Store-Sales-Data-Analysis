@@ -22,5 +22,6 @@ Power BI dashboards and reports built on retail store sales data.
 2. Open any `.pbix` file to explore the report/dashboard.
 3. `Store_Data.xlsx` can be opened in Excel to view the raw source data.
 
-## 📌 Notes
-Add any additional context about your analysis, business questions answered, or insights found here.
+## 👤 Author
+
+Sushant Kumar
